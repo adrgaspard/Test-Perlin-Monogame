@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+efPZgHMfIpgHXk9hU8Y079ScZlaIN7+OHV8kqMpBn8wtnpOVN85XeZRKX8/0ykfhKmJZolZ3hXTYhU7hWsUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaspard\\Git projects\\test-bruit-de-perlin-monogame\\Procedural.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaspard\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\monogame.content.builder\\3.7.0.4\\monogame.content.builder.3.7.0.4.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\monogame.framework.desktopgl.core\\3.7.0.7\\monogame.framework.desktopgl.core.3.7.0.7.nupkg.sha512",
+    "C:\\Users\\Gaspard\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
